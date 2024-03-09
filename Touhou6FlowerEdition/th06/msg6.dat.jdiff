@@ -1,0 +1,334 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "You thought I'd be dead that easily?",
+                "Let's see how you get over this!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "How about you go clean the mansion?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "It's already night time?",
+                "I wonder who this 'mistress' is..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hey, what's that?"
+            ]
+        },
+        "242_h1_0": {
+            "lines": [
+                "The Eternally Young Scarlet Moon",
+                "<c$Remilia Scarlet$The Eternally Young Scarlet Moon>"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "I didn't expect any new visitors..."
+            ]
+        },
+        "243_0": {
+            "lines": [
+                "What!? A vampire?",
+				"I thought vampires were just fairytales."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "Well, now you've seen one.",
+				"But what are you here for?"
+            ]
+        },
+        "245_0": {
+            "lines": [
+                "I heard you're the mastermind of this",
+                "red mist. Is that true?"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Well yes, I am. But what",
+				"made you get here?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "You're blocking the sun, and that's",
+                "important for the humans and me."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "The sun is one of our kind's",
+                "greatest enemies."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "I know that, but that doesn't",
+                "mean you can cover it up."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "As we are different entities, our reasoning"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "is not the same."
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "Sure, yes, but I bet we both know",
+				"what the sun does for the flowers and crops."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Hmm, how unfortunate..."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "I believe I need to deal with this intruder..."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "Don't you have your servants to help",
+                "you out?"
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "You could probably use a parasol",
+                "to block the sun."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "While that would be helpful..."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "... my servants can't do anything like that."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Well, I guess you should get new servants..."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Is that an 'erhu' in your hand?"
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Are you some sort of musician?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Why yes, I am. ^^",
+                "Would you like me to <i$play> a song?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "As the Moon is so scarlet,",
+                "I suggest we commence the music now."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Well, if you say so."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "I'll be the player.",
+                "I'll be the performer."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "A person like you is unusual.",
+                "There's nothing here, right?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Back atcha.",
+                "Are you really a maid?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "She's definitely here.",
+                "This weird air is giving me the chills."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Why do the strong ones always hide?"
+            ]
+        },
+        "243_h1_0": {
+            "lines": [
+                "The Eternally Young Scarlet Moon",
+                "<c$Remilia Scarlet$The Eternally Young Scarlet Moon>"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "A skilled hawk doesn't hide its tail..."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "...you don't seem to have a brain."
+            ]
+        },
+        "245_0": {
+            "lines": [
+                "Humans are the only ones"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "who need simple chemical",
+                "thought centers such as brains."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "You're one of those, right?"
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Can't stand sunlight or smelly vegetables,"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "or that one silver thing."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "You know, the masters of the night with",
+                "tons of weaknesses for some reason..."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "Yes, I'm a sickly girl."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Interesting. So you really drink it?",
+                "You know, that."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Of course.",
+                "But I'm a light eater and always leave some on the plate."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "How many people's blood have you sucked up to now?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "Can you remember how many slices",
+                "of bread you have eaten until now?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Thirteen.",
+                "I prefer Japanese food."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "So, what are you here for?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "I'm already quite full, but..."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Oh yeah, I'm hungry."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "...Eating may be good."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Ah, is that so."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Just now, that was the name of a flower:",
+                "\"aasōkai.\""
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Humans are fun."
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Or maybe you're",
+                "not a human?"
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "I'm a fun human."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Heehee, because the moon is so red?"
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "It looks like it's going to be a hot night.",
+                "Looks like it's gonna be a cold night."
+            ]
+        }
+    }
+}

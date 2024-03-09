@@ -1,0 +1,213 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Damn, that attack didn't work. Must get back now"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Hey! Where's your apology for that act!?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ugh, it's you again!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'm waiting for that apology."
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sorry, but as a guard for this mansion",
+                "I need to be in patrol for intruders running about."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Well, what's  that red air",
+                "coming out from here?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah-. Well- Uug-. Shucks..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Well this mist is creating problems for",
+				"the crops in the human village."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "And what does that have to do",
+				"with you here?."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "I'm sensing that its you and the",
+				"residents living in this so called mansion."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Well you could be right, in one way."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But I can't allow you to enter the mansion."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "What's stopping you from letting me in?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I hold the power of Qi."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "With this skill, I'll be able to defeat you",
+                "like a small insect."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Is that how you show respect to visitors?"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "That clearly didn't defeat any bugs."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There is no more.",
+                "This is the demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh well, that's too bad."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Should've done more attacks",
+				"I'm sorry, Mistress!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Damn, gotta run for now!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Go ahead and run."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, thanks for that just now."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It's been a while, hasn't it?"
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Wait, when have we met before?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Just a moment ago?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Hmm, I ran into some weirdo then."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Listen, you're in my way.",
+                "Are you a guard around here, then?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I am the guard, and so I'm in your way."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So you are the guard?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'm just a normal person who",
+                "happens to be the guard."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "In short, you're a normal person.",
+                "I shall punish you here."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "What kind of education did you get?!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Just as I thought,",
+                "it isn't my style to fight normal people."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You've got to be kidding me!"
+            ]
+        }
+    }
+}
