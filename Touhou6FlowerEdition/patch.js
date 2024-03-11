@@ -6,7 +6,7 @@
 	],
 	"id": "Touhou6FlowerEdition",
 	"servers": [
-		"https://mirrors.thpatch.net/Kogasas_Mods/RinSatsukiMod/"
+		"https://mirrors.thpatch.net/DedeHead/Touhou6FlowerEdition/"
 	],
 	"title": "Touhou6FlowerEdition (06) Adds Rin Satsuki to Eosd(WIP)"
 }
