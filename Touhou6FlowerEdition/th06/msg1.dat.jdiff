@@ -1,0 +1,185 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "Man, this red mist sure is making the forest dim."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It feels as if I'm going to be killed any moment",
+                "walking around like this, :-(."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But, it's dark out, and",
+                "I'm not sure where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Still..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "It's so calming at the same time.",
+                "(← carefree)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "It really is.",
+                "However, your first thought just became a reality."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Wait a minute, who are you?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Rumia, youkai of the night.",
+                "I think I found my new prey."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Who are you calling prey?",
+                "I'm just a human walking by."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Are you sure?",
+                "You seem out of the ordinary to me."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Really now?",
+                "Says the blind youkai."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "That won't change my objective",
+				"of eating you now."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Don't make me use force on you!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Be ready to face the darkness of this forest!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "My goodness..."
+            ]
+        },
+        "60_0": {
+            "lines": [
+                "It's been a while since my last job..."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Well, thats's one way to defeat a man-eating yokai!^^"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "But I need to continue, to help the village."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "This kinda feeling, it's..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Knowing her, she'd probably say,",
+                "\"It sure feels great out\"."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I hate the night, though."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There's only weirdos around at this hour."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Who are you calling a weirdo?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nobody's talking about you."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Um, no, of course not."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "So, why are you holding your arms",
+                "out like that?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Doesn't it give you the image of",
+                "a saint crucified on a cross?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "It looks to me more like",
+                "humankind learning how to add."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "I wonder if non-humans have enough fingers"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "to even count up to ten."
+            ]
+        }
+    }
+}
